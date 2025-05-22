@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "testuser",
+      "email": "testuser@example.com",
+      "password": "test",
+      "securityQuestion": "What is your pet's name?",
+      "securityAnswer": "Fluffy"
+    },
+    {
+      "id": 2,
+      "username": "janedoe",
+      "email": "janedoe@example.com",
+      "password": "janedoe@123",
+      "securityQuestion": "What is your favorite color?",
+      "securityAnswer": "Blue"
+    }
+  ]
+}
