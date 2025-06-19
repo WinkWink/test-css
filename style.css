@@ -43,7 +43,8 @@
 }
 
 .page-container__content__login-modal {
-  background-color: white;
+  background-color: #fff;
+  display: flex;
   max-width: 26.4375rem;
   width: 100%;
   padding: 5rem 2.5rem;
@@ -70,9 +71,6 @@
   border-radius: 0.25rem;
 }
 
-.active {
-  display: flex;
-}
 
 .page-container__content__login-modal__row__button,
 .page-container__content__login-modal__row__checkbox,
