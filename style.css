@@ -56,7 +56,6 @@
   flex-direction: column;
   gap: 2.5rem;
   padding: 5rem 2.5rem;
-  display: none;
 }
 
 .page-container__content__login-modal img {
