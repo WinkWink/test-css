@@ -504,6 +504,8 @@ button a {
 
   .page-container__content__form {
     width: 100%;
+    display:flex;
+    flex-direction:column;
   }
 
   .page-container__content__bottom__terms,
