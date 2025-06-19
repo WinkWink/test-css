@@ -377,6 +377,13 @@ h3 {
   text-align: center;
 }
 
+.page-container__content__form {
+    width: 100%;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+}
+
 h3,
 .page-container__content__login-modal__user-info__title,
 .page-container__content__login-modal__questions__title,
@@ -504,9 +511,6 @@ button a {
 
   .page-container__content__form {
     width: 100%;
-    display:flex;
-    flex-direction:column;
-    justify-content: center;
   }
 
   .page-container__content__bottom__terms,
