@@ -380,11 +380,11 @@ a {
   text-decoration: none;
 }
 
-h3 {
+h2 {
   text-align: center;
 }
 
-h3,
+h2,
 .page-container__content__login-modal__user-info__title,
 .page-container__content__login-modal__questions__title,
 .page-container__content__login-modal__challenge__title {
