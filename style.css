@@ -225,7 +225,7 @@ input[type="checkbox"] {
   -webkit-transition: 0.2s ease all;
 }
 
-.input-wrapper__input:focus + .input-wrapper__floating-label {
+.input-wrapper__input:focus + .input-wrapper__floating-label , .input-wrapper__input:not(:placeholder-shown) + .input-wrapper__floating-label {
   margin-top: -1.4375rem;
   background-color: #ffffff;
   padding: 0 0.1875rem;
