@@ -507,9 +507,11 @@ button a {
   .page-container__content__login-modal {
     max-width: 100% !important;
     width: 100%;
-    padding: 5rem 2.5rem;
-
   }
+
+  .page-container__content__form img {
+  padding-top: 5rem;
+}
 
   .page-container__content__form {
     width: 100%;
