@@ -33,13 +33,12 @@
 .page-container__content {
   width: 100%;
   max-width: 90rem;
-  height: 100vh;
   display: flex;
   align-items: center;
   flex-direction: column;
   font-family: "Avenir LT Std";
   gap: 1rem;
-  padding-top: 12.5rem;
+  padding: 12.5rem auto;
 }
 
 .page-container__content__login-modal {
